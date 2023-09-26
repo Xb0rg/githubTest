@@ -17,5 +17,5 @@ def local():
 m = 5
 print(m, 'printing from the global scope')
 local()
-
+print("Hello")
 print("Hello World")
